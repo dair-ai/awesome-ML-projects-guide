@@ -32,7 +32,7 @@ Not only do we want our machine learning projects to stand out, but we also want
 
 *That’s it! Hope you find this guide helpful. I am going to regularly maintain it as I come across more ideas on how to improve your machine learning projects. I also welcome any feedback (just open an issue). Feel free to fork this repo and use this guide as a checklist for your next big machine learning project. Wish you all the best!*
 
----
+------
 
 ## How you can contribute to this guide?
 - [ ] Add more components that in your experience help projects stand out
